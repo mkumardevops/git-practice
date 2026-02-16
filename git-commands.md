@@ -12,3 +12,9 @@ git config --global user.name "<username>"
 
 git config --global user.email "<user_email>"
 ```
+3. Verify the user identity
+```
+git config user.name
+
+git config user.email
+```
