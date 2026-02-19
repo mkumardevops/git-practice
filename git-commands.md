@@ -26,4 +26,12 @@ git checkout -b <branch_name>
 5. Pushing your changes to stage
 ```
 git add <file_name>
+
+git commit -m "Meaningful commit message"
+```
+
+6. Move your change from stage to branch
+```
+git push origin main
+
 ```
