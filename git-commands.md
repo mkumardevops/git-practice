@@ -18,3 +18,7 @@ git config user.name
 
 git config user.email
 ```
+4. Create and checkout branch
+```
+git checkout -b <branch_name>
+```
