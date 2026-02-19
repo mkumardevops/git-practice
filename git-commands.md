@@ -22,3 +22,8 @@ git config user.email
 ```
 git checkout -b <branch_name>
 ```
+
+5. Pushing your changes to stage
+```
+git add <file_name>
+```
